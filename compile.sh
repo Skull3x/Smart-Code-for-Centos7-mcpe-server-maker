@@ -1007,3 +1007,5 @@ date >> "$DIR/install.log" 2>&1
 echo " done!"
 echo "[ImagicalMine] You should start the server now using \"./start.sh.\""
 echo "[ImagicalMine] If it doesn't work, please send the \"install.log\" file to the Bug Tracker."
+echo "[ImagicalMine] Made By : @EpicSavage with care :)"
+echo "[ImagicalMine] REMEMBER THAT THE GENISYS.PHAR IS NOW MAGICALMINE.PHAR"
