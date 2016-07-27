@@ -8,7 +8,7 @@ wget bintray.com/pocketmine/PocketMine/download_file?file_path=PHP_7.0.3_x86-64_
 
 tar -xvzf download*
 
-wget get.lexodexo.de/compile.sh
+wget get.lexodexo.de/compile.sh ( NO LONGER WORKING!! GET THE ONE FROM WEBSITE AND THEN DO THE NEXT COMMAND )
 
 chmod +x compile.sh && ./compile.sh
 
