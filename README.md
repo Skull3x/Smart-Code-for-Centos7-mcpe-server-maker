@@ -1,8 +1,5 @@
-# Smart-Compile-for-Linux
-Run this Compile.sh file to install your own Genisys Server on linux!
-
-Run this command on your Linux Service
-./compile.sh
-after that follow what it tells you :)
+# Smart-Code-for-Centos7-mcpe-server-maker
+Run this commands and you will have your server in no time!
+Remember to do yes in everything :)
 
 Made by: @EpicSavage
