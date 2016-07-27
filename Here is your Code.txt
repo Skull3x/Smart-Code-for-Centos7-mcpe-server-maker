@@ -1,0 +1,21 @@
+yum update
+
+(Do yes for every question)
+
+yum install perl gcc g++ make automake libtool autoconf m4 curl bison libtool-bin bzip2 -y
+
+wget bintray.com/pocketmine/PocketMine/download_file?file_path=PHP_7.0.3_x86-64_Linux.tar.gz
+
+tar -xvzf download*
+
+wget get.lexodexo.de/compile.sh
+
+chmod +x compile.sh && ./compile.sh
+
+wget jenkins.mcper.cn/job/Genisys-master/lastStableBuild/artifact/artifact/Genisys_1.2dev-471.phar
+
+mv Genisys_1.2dev-471.phar ImagicalMine.phar
+
+curl -sL get.imagicalmine.net | bash
+
+./start.sh
